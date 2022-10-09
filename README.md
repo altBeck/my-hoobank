@@ -1,4 +1,4 @@
-# My Hoobank - A Modern banking website Built using React.js & Tailwind CSS
+# My Hoobank - A Modern banking website
 
 Hoobank is a functional landing Page project developed with ReactJS and TailwindCSS. 
 
