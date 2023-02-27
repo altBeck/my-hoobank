@@ -9,10 +9,10 @@ Hoobank is a functional landing Page project developed with ReactJS and Tailwind
 - [React.js](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 
-### Lessons Learnt
+### Concepts Applied
 
 - React Styled Components and Reuseablility
 - React File and Folder Structure
-- Mastery over TailwindCSS
+- TailwindCSS
 - Fundamental CSS properties to master Flex, soft animations and complex gradients
 
